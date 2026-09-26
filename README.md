@@ -22,7 +22,7 @@ Power BI Desktop (Power Query, Data Modeling, DAX), Excel (source data)
 [Power BI File](https://github.com/kashifusman100/Retail-IQ/tree/main/Power%20BI%20File)
 
 ## Quick Dashboard Demo
-https://github.com/user-attachments/assets/4cc3e4c6-173e-471d-b145-e0ade4abb2de
+https://github.com/user-attachments/assets/607c9123-eed2-42e0-86fb-d6f4a1b9f2c3
 
 ## Model View
 <img width="1473" height="720" alt="Image" src="https://github.com/user-attachments/assets/f1ce80d5-d20f-424e-86a8-b96ee844873f" />
